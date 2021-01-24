@@ -1,10 +1,10 @@
 {
-  "name": "cordova-plugin-dialogs",
-  "version": "3.0.0-dev",
+  "name": "cordova-plugin-dialogs-with-dismiss",
+  "version": "1.0.0",
   "description": "Cordova Notification Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
-    "id": "cordova-plugin-dialogs",
+    "id": "cordova-plugin-dialogs-with-dismiss",
     "platforms": [
       "android",
       "browser",
@@ -12,7 +12,7 @@
       "windows"
     ]
   },
-  "repository": "github:apache/cordova-plugin-dialogs",
+  "repository": "github:rigidassoftware/cordova-plugin-dialogs",
   "bugs": "https://github.com/apache/cordova-plugin-dialogs/issues",
   "keywords": [
     "cordova",
